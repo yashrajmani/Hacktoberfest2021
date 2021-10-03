@@ -65,6 +65,41 @@ To Contribute in a proper way so that I can merge the pull request:
 7. Done! Welcome to the dark side!
 
 
+## How to contribute to this project
+Here are 3 quick and painless ways to contribute to this project:
+
+* Add your name to the `CONTRIBUTORS.md` file
+* Add a profile page to the `profiles` directory
+* Create a simple "Hello, World" script in a language of your choice
+
+Choose one or all 3, make a pull request for your work and wait for it to be merged!
+
+
+## Choose from these tasks
+### 1. Add your name
+Add your name to the `CONTRIBUTORS.md` file using the below convention:
+
+```markdown
+#### Name: [YOUR NAME](GitHub link)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+```
+
+
+### 3. Create a `Hello, World!` Script
+Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+
+```Javascript
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Alice Chuang
+// GITHUB: https://github.com/AliceWonderland
+
+console.log('Hello, World!');
+```
+
+
 #### Happy Learning & Hacktoberfest :::
 No file chosen
 Attach files by dragging & dropping, selecting or pasting them.
