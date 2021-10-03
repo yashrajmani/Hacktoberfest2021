@@ -1,4 +1,13 @@
-# Hacktoberfest2021
+# check this before commiting code
+[https://github.com/open-for-everyone/hacktoberfest2021/discussions/747](https://github.com/open-for-everyone/hacktoberfest2021/discussions/747)
+
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/keshavsingh4522/hacktoberfest2021/35fc6060c5ddead5792f29a2437fea160dbe9804/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
+    </a>
+</p>
+
+<h1 align="center"> Hacktoberfest 2021 🎉</h1>
  FREE FOR ALL , LEARNING and CELEBRATING OPEN SOURCE, This Hacktoberfest project exists to help you submit your first Pull Request!
 Skip to content
 Search or jump to…
