@@ -86,7 +86,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 ```
 
 
-### 2. Create a `Hello, World!` Script
+### 2. Create a A 'CODE' / Script in any Language
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Javascript
