@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="logo.png" width="30%">
+        <img src="logo.png" width="60%">
     </a>
 </p>
 
