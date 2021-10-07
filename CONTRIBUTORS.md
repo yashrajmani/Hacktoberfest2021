@@ -14,3 +14,9 @@
 - Place: Roorkee, Uttarakhand, INDIA
 - Bio: CSE undergrad, BTKIT Dwarahat
 - GitHub: [GURJ4R](https://github.com/GURJ4R)
+
+#### Name: Arash
+- Place: The Randstad, Netherlands
+- Bio: DevOps Evangelist
+- GitHub: [irLinja](https://github.com/irLinja)
+
