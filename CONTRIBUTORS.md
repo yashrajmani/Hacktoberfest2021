@@ -20,3 +20,7 @@
 - Bio: DevOps Evangelist
 - GitHub: [irLinja](https://github.com/irLinja)
 
+#### Name: [Fawwaz abdul ghani]
+- Place: Bekasi, indonesia
+- Bio: Student
+- GitHub: [Ghani280706](https://github.com/Ghani280706)
