@@ -20,3 +20,8 @@
 - Bio: DevOps Evangelist
 - GitHub: [irLinja](https://github.com/irLinja)
 
+#### Name: Kratika Gupta
+- Place: Rajasthan, India
+- Bio: CSE Undergrad, 2023
+- GitHub: [kratikagupta2002](https://github.com/kratikagupta2002)
+
