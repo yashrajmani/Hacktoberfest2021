@@ -31,3 +31,8 @@
 - Bio: Student
 - GitHub: [Ghani280706](https://github.com/Ghani280706)
 
+
+#### Name: [Umesh Badsara]
+-  Place: Jaipur 
+-  Bio: Student 
+-  Github: [Coder-badsara](https://github.com/Coder-badsara)
