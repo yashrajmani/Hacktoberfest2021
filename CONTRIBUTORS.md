@@ -32,7 +32,7 @@
 - GitHub: [Ghani280706](https://github.com/Ghani280706)
 
 #### Name: Priyanh Singh
-- Place: India
+- Place: Midgard
 - Bio: Student
 - GitHub: https://github.com/ps-19
 
