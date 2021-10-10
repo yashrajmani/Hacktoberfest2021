@@ -31,3 +31,8 @@
 - Bio: Student
 - GitHub: [Ghani280706](https://github.com/Ghani280706)
 
+#### Name: Priyanh Singh
+- Place: India
+- Bio: Student
+- GitHub: https://github.com/ps-19
+
