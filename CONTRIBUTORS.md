@@ -43,9 +43,14 @@
 -  Bio: Student 
 -  Github: [Coder-badsara](https://github.com/Coder-badsara)
 
+
+#### Name: [Aravind S]
+-  Place: Kerala
+-  Bio: Student 
+-  Github: [aravinds-arv](https://github.com/aravinds-arv)
+
 #### Name: [Naufal Syuhur](https://github.com/naufal0911)
 - Place: Cimahi, Jawa Barat, Indonesia
 - Bio: Student
 - GitHub: [Naufal Syuhur](https://github.com/naufal0911)
-
 
