@@ -1,3 +1,4 @@
+#taking input from user
 num = int(input("Enter a number: "))
 
 # initialize sum
