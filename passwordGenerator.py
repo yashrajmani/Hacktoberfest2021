@@ -1,3 +1,4 @@
+#code for generating password
 import random
 import array
   
