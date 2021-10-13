@@ -1,3 +1,7 @@
+// LANGUAGE: C++
+// AUTHOR: Rishabh
+// GITHUB: https://github.com/Rishabh-792
+
 #include <bits/stdc++.h>
 #include <iostream>
 
