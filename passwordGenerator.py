@@ -14,7 +14,7 @@ UPCASE_CHARACTERS = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
                      'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y',
                      'Z']
   
-SYMBOLS = ['@', '#', '$', '%', '=', ':', '?', '.', '/', '|', '~', '>', 
+SYMBOLS = ['@', '#', '$', '%', '=', ':', '?', '.', '/', '|', '\', '~', '>', 
            '*', '(', ')', '<']
   
 COMBINED_LIST = DIGITS + UPCASE_CHARACTERS + LOCASE_CHARACTERS + SYMBOLS
