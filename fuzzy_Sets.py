@@ -20,9 +20,9 @@ class FuzzySet:
       else:
             print('error')
       
-      print('First set:')
+      print('First set is:')
       self.display()
-      print('Second set:')
+      print('Second set is:')
       obj.display()
 
     def complement(self):
