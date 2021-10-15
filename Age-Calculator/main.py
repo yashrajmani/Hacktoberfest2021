@@ -10,7 +10,7 @@ root.iconbitmap("./assets/python.ico")
 root.geometry("650x450")
 root.configure(background="#ff793b")
 
-# function for receiving values from entry widgets and assigning them to variables 
+# function for receiving values from entry widgets and assigning them to variables
 # also displays the final meassage label in the right format
 def calcFn():
     global name, day, month, year, msgLabel
@@ -20,8 +20,15 @@ def calcFn():
     year = int(yearEntry.get())
     ageFn()
     msgLabel.grid_forget()
-    msgLabel = Label(root, text=f"Hey {name}, you are {ageFormat} old!!", font=("poppins",11), bg="#ff793b", fg="#dbfffe")
+    msgLabel = Label(
+        root,
+        text=f"Hey {name}, you are {ageFormat} old!!",
+        font=("poppins", 11),
+        bg="#ff793b",
+        fg="#dbfffe",
+    )
     msgLabel.grid(row=5, column=0, columnspan=4, pady=17)
+
 
 # fuction for assigning the right string and date formats to the ageFormat variable used in previous function
 # the formats depend upon the input value received from the option menu variable
@@ -32,9 +39,9 @@ def ageFn():
     diff = now - dob
     diffRel = relativedelta.relativedelta(now, dob)
     totSec = int(diff.total_seconds())
-    totHrs = int(totSec//3600)
-    totDays = int(totHrs//24)
-    totMon = (diffRel.years*12) + diffRel.months
+    totHrs = int(totSec // 3600)
+    totDays = int(totHrs // 24)
+    totMon = (diffRel.years * 12) + diffRel.months
     remDays = diffRel.days
     totYears = diffRel.years
     remMon = diffRel.months
@@ -48,6 +55,7 @@ def ageFn():
         ageFormat = f"{totHrs} Hours"
     elif clicked.get() == "In Seconds":
         ageFormat = f"{totSec} Seconds"
+
 
 # the image to be displayed
 myImg = ImageTk.PhotoImage(Image.open("./assets/age.png"))
@@ -79,18 +87,34 @@ yearLabel.grid(row=1, column=3, padx=17)
 yearEntry.grid(row=2, column=3, padx=17)
 
 # the button
-calcBtn = Button(root, text="What's my age?", font=("Poppins",12), padx=15, pady=2, bg="#ffc95c", command=calcFn)
+calcBtn = Button(
+    root,
+    text="What's my age?",
+    font=("Poppins", 12),
+    padx=15,
+    pady=2,
+    bg="#ffc95c",
+    command=calcFn,
+)
 calcBtn.grid(row=3, column=0, columnspan=4, pady=22)
 
 # initializing the tkinter variable for the option menu
 clicked = StringVar()
 clicked.set("In Years")
 # the option menu
-timeMenu = OptionMenu(root, clicked, "In Years", "In Months", "In Days", "In Hours", "In Seconds")
+timeMenu = OptionMenu(
+    root, clicked, "In Years", "In Months", "In Days", "In Hours", "In Seconds"
+)
 timeMenu.grid(row=4, column=0, columnspan=4)
 
 # the message label
-msgLabel = Label(root, text="Don't judge me by my looks...just tell me your DOB, you'll see what I got!", font=("poppins",11), bg="#ff793b", fg="#dbfffe")
+msgLabel = Label(
+    root,
+    text="Don't judge me by my looks...just tell me your DOB, you'll see what I got!",
+    font=("poppins", 11),
+    bg="#ff793b",
+    fg="#dbfffe",
+)
 msgLabel.grid(row=5, column=0, columnspan=4, pady=17)
 
 # the mainloop on exit terminates app

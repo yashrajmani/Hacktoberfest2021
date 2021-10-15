@@ -7,6 +7,7 @@ root.title("Die roll using Tkinter")
 root.iconbitmap("./assets/python.ico")
 root.geometry("700x450")
 
+
 def rollEm():
     global imgList, dieLabel1, dieLabel2, dieLabel3, value, button, spin, dieNum1, dieNum2, dieNum3, msgLabel, score
     dieNum1 = random.choice(imgList)
@@ -22,26 +23,44 @@ def rollEm():
     if value.get() == 1:
         dieLabel1 = Label(root, image=dieNum1)
         dieLabel1.grid(row=2, column=0, pady=47)
-        button = Button(root, text="Let's roll em", command=rollEm, bg="#5ebfff", fg="#fefefe", font=("poppins", 14))
+        button = Button(
+            root,
+            text="Let's roll em",
+            command=rollEm,
+            bg="#5ebfff",
+            fg="#fefefe",
+            font=("poppins", 14),
+        )
         button.grid(row=0, column=0, columnspan=1, padx=285, pady=25)
         value = IntVar()
         spin = Spinbox(root, textvariable=value, from_=1, to=3)
         value.set(1)
         spin.grid(row=1, column=0, columnspan=1)
-        msgLabel = Label(root, text=f"Great! You've got a sum of {score}", font=("poppins", 14))
+        msgLabel = Label(
+            root, text=f"Great! You've got a sum of {score}", font=("poppins", 14)
+        )
         msgLabel.grid(row=3, column=0, columnspan=1)
     elif value.get() == 2:
         dieLabel1 = Label(root, image=dieNum1)
         dieLabel2 = Label(root, image=dieNum2)
         dieLabel1.grid(row=2, column=0, pady=47)
         dieLabel2.grid(row=2, column=1, pady=47)
-        button = Button(root, text="Let's roll em", command=rollEm, bg="#5ebfff", fg="#fefefe", font=("poppins", 14))
+        button = Button(
+            root,
+            text="Let's roll em",
+            command=rollEm,
+            bg="#5ebfff",
+            fg="#fefefe",
+            font=("poppins", 14),
+        )
         button.grid(row=0, column=0, columnspan=2, padx=285, pady=25)
         value = IntVar()
         spin = Spinbox(root, textvariable=value, from_=1, to=3)
         value.set(2)
         spin.grid(row=1, column=0, columnspan=2)
-        msgLabel = Label(root, text=f"Great! You've got a sum of {score}", font=("poppins", 14))
+        msgLabel = Label(
+            root, text=f"Great! You've got a sum of {score}", font=("poppins", 14)
+        )
         msgLabel.grid(row=3, column=0, columnspan=2)
     elif value.get() == 3:
         dieLabel1 = Label(root, image=dieNum1)
@@ -50,14 +69,24 @@ def rollEm():
         dieLabel1.grid(row=2, column=0, pady=47)
         dieLabel2.grid(row=2, column=1, pady=47)
         dieLabel3.grid(row=2, column=2, pady=47)
-        button = Button(root, text="Let's roll em", command=rollEm, bg="#5ebfff", fg="#fefefe", font=("poppins", 14))
+        button = Button(
+            root,
+            text="Let's roll em",
+            command=rollEm,
+            bg="#5ebfff",
+            fg="#fefefe",
+            font=("poppins", 14),
+        )
         button.grid(row=0, column=0, columnspan=3, padx=285, pady=25)
         value = IntVar()
         spin = Spinbox(root, textvariable=value, from_=1, to=3)
         value.set(3)
         spin.grid(row=1, column=0, columnspan=3)
-        msgLabel = Label(root, text=f"Great! You've got a sum of {score}", font=("poppins", 14))
+        msgLabel = Label(
+            root, text=f"Great! You've got a sum of {score}", font=("poppins", 14)
+        )
         msgLabel.grid(row=3, column=0, columnspan=3)
+
 
 def calcSum():
     global score, value, imgList, dieNum1, dieNum2, dieNum3, score
@@ -66,14 +95,24 @@ def calcSum():
     elif value.get() == 2:
         score = imgList.index(dieNum1) + imgList.index(dieNum2) + 2
     elif value.get() == 3:
-        score = imgList.index(dieNum1)+ imgList.index(dieNum2)+ imgList.index(dieNum3)+ 3
+        score = (
+            imgList.index(dieNum1) + imgList.index(dieNum2) + imgList.index(dieNum3) + 3
+        )
+
 
 value = IntVar()
 spin = Spinbox(root, textvariable=value, from_=1, to=3)
 value.set(2)
 spin.grid(row=1, column=0, columnspan=2)
 
-button = Button(root, text="Let's roll em", command=rollEm, bg="#5ebfff", fg="#fefefe", font=("poppins", 14))
+button = Button(
+    root,
+    text="Let's roll em",
+    command=rollEm,
+    bg="#5ebfff",
+    fg="#fefefe",
+    font=("poppins", 14),
+)
 button.grid(row=0, column=0, columnspan=2, padx=285, pady=25)
 
 dieImg1 = ImageTk.PhotoImage(Image.open("./assets/die1.png"))

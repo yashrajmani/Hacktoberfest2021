@@ -1,7 +1,7 @@
 def is_anagram(s: str, t: str) -> bool:
-            s = sorted(s)
-            t = sorted(t)
-            return s == t
+    s = sorted(s)
+    t = sorted(t)
+    return s == t
 
 
 if __name__ == "__main__":

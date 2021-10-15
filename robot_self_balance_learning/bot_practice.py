@@ -1,4 +1,4 @@
-import gym 
+import gym
 from gym import error, spaces, utils
 import time
 from stable_baselines import DQN
@@ -6,11 +6,11 @@ from stable_baselines.common.vec_env import DummyVecEnv
 from stable_baselines.common.evaluation import evaluate_policy
 import self_balance
 
-environment_name = 'self_balance-v0'
+environment_name = "self_balance-v0"
 env = gym.make(environment_name)
 
 env = DummyVecEnv([lambda: env])
-model = DQN('MlpPolicy', env, verbose = 2)
+model = DQN("MlpPolicy", env, verbose=2)
 
 
 model.learn(total_timesteps=83000)

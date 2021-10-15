@@ -28,9 +28,9 @@ def from_kg():
 e1 = Label(window, text="Enter the weight in KG")
 e2_value = StringVar()
 e2 = Entry(window, textvariable=e2_value)
-e3 = Label(window, text='Gram')
-e4 = Label(window, text='Pounds')
-e5 = Label(window, text='Ounce')
+e3 = Label(window, text="Gram")
+e4 = Label(window, text="Pounds")
+e5 = Label(window, text="Ounce")
 
 # Create the Text Widgets
 t1 = Text(window, height=1, width=20)
