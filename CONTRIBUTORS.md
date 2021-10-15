@@ -53,3 +53,7 @@
 - Bio: Student
 - GitHub: [Naufal Syuhur](https://github.com/naufal0911)
 
+#### Name: Pramod Wankhade
+- Place: Maharashtra, India
+- Bio: Student at government engineering College, Aurangabad
+- GitHub: [prwankhade16](https://github.com/prwankhade16)
