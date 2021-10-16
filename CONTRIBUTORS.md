@@ -57,3 +57,10 @@
 - Place: Horana, Western, Sri Lanka
 - Bio: I'm Manula Uluwatta
 - GitHub: [ManulaUluwatta](https://github.com/ManulaUluwatta)
+
+
+
+#### Name: Sooraj
+- Place: Nagpur, India
+- Bio: CSE undergrad, PCE Nagpur
+- GitHub: https://github.com/Dr-blue-cyber
