@@ -38,6 +38,8 @@
 - GitHub: https://github.com/ps-19
 
 
+
+
 #### Name: [Umesh Badsara]
 -  Place: Jaipur 
 -  Bio: Student 
@@ -71,4 +73,8 @@
 - Bio: I'm Manula Uluwatta
 - GitHub: [ManulaUluwatta](https://github.com/ManulaUluwatta)
 
+#### Name:Vaishnavi Saindane
+- Place: Maharashtra ,India
+- Bio:  IT Engineering Student
+- GitHub: [vaishnavisaindane](https://github.com/vaishnavisaindane)
 
