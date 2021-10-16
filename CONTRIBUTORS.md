@@ -53,8 +53,15 @@
 - Bio: Student
 - GitHub: [Naufal Syuhur](https://github.com/naufal0911)
 
+
 #### Name: [Akash Gadhave](https://github.com/Akash2001)
 - Place: Maharashtra, India
 - Bio: Student
 - GitHub: [Akash Gadhave](https://github.com/Akash2001)
+
+
+#### Name: [Manula Uluwatta](https://github.com/ManulaUluwatta)
+- Place: Horana, Western, Sri Lanka
+- Bio: I'm Manula Uluwatta
+- GitHub: [ManulaUluwatta](https://github.com/ManulaUluwatta)
 
