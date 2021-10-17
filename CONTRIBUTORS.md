@@ -72,3 +72,7 @@
 - GitHub: [ManulaUluwatta](https://github.com/ManulaUluwatta)
 
 
+#### Name: [Tyler Alexander](https://github.com/klikx)
+- Place: United States, CA
+- Bio: Student
+- GitHub: [klikx](https://github.com/klikx)
