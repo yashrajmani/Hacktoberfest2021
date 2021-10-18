@@ -21,7 +21,7 @@
 - GitHub: [irLinja](https://github.com/irLinja)
 
 
-#### Name: [RICHA RIYA]
+#### Name: [RICHA RIYA](https://github.com/Richa812)
 - Place: Jharkhand,India
 - Bio: IT undergrad
 - GitHub: [Richa812](https://github.com/Richa812)
