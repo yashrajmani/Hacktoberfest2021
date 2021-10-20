@@ -71,4 +71,7 @@
 - Bio: I'm Manula Uluwatta
 - GitHub: [ManulaUluwatta](https://github.com/ManulaUluwatta)
 
-
+#### Name: [Awal Ariansyah](https://github.com/snowfluke)
+- Place: Cilacap, Indonesia
+- Bio: Student at STMIK Komputama Majenang
+- GitHub: [Awal Ariansyah](https://github.com/snowfluke)
