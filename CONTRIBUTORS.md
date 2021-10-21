@@ -53,6 +53,19 @@
 - Bio: Student
 - GitHub: [Naufal Syuhur](https://github.com/naufal0911)
 
+
+#### Name: Pramod Wankhade
+- Place: Maharashtra, India
+- Bio: Student at government engineering College, Aurangabad
+- GitHub: [prwankhade16](https://github.com/prwankhade16)
+
+
+#### Name: [Akash Gadhave](https://github.com/Akash2001)
+- Place: Maharashtra, India
+- Bio: Student
+- GitHub: [Akash Gadhave](https://github.com/Akash2001)
+
+
 #### Name: [Manula Uluwatta](https://github.com/ManulaUluwatta)
 - Place: Horana, Western, Sri Lanka
 - Bio: I'm Manula Uluwatta
@@ -64,3 +77,4 @@
 - Place: Nagpur, India
 - Bio: CSE undergrad, PCE Nagpur
 - GitHub: https://github.com/Dr-blue-cyber
+
