@@ -72,7 +72,16 @@
 - GitHub: [ManulaUluwatta](https://github.com/ManulaUluwatta)
 
 
+
 #### Name: [Tyler Alexander](https://github.com/klikx)
 - Place: United States, CA
 - Bio: Student
 - GitHub: [klikx](https://github.com/klikx)
+
+
+#### Name: Sooraj
+- Place: Nagpur, India
+- Bio: CSE undergrad, PCE Nagpur
+- GitHub: https://github.com/Dr-blue-cyber
+
+
