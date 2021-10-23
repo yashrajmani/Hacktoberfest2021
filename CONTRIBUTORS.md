@@ -85,3 +85,7 @@
 - GitHub: https://github.com/Dr-blue-cyber
 
 
+#### Name: Naushad Alam
+- Place: West Bengal, India
+- Bio: CSE undergrad
+- GitHub:https://github.com/Summer-source
