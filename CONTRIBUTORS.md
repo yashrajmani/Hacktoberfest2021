@@ -72,6 +72,11 @@
 - GitHub: [ManulaUluwatta](https://github.com/ManulaUluwatta)
 
 
+#### Name: [Awal Ariansyah](https://github.com/snowfluke)
+- Place: Cilacap, Indonesia
+- Bio: Student at STMIK Komputama Majenang
+- GitHub: [Awal Ariansyah](https://github.com/snowfluke)
+
 
 #### Name: [Tyler Alexander](https://github.com/klikx)
 - Place: United States, CA
@@ -83,5 +88,4 @@
 - Place: Nagpur, India
 - Bio: CSE undergrad, PCE Nagpur
 - GitHub: https://github.com/Dr-blue-cyber
-
 
